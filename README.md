@@ -1,9 +1,9 @@
 
 # POTR POTS E-commerce Website
 
-[DEMO]()
+[DEMO](https://vanyachyzh.github.io/potr_pots_landing/)
 
-[Design]()
+[Design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?type=design&node-id=1760-281)
 
 This is an e-commerce website for POTR POTS, a company that sells various types of pots. The website is built using HTML, CSS, and SCSS with BEM methodology, and includes adaptive design for different screen sizes, including mobile, tablet, desktop, and screens over 1600px.
 
