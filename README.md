@@ -1,42 +1,24 @@
-# POTR POTS landing page (HARD)
 
-**⚠️ Attention: this is a hard landing page for development. We highly recommend choosing this landing page only if you didn't have a lot of troubles with previous homework tasks and if you sent all homework in time (didn't miss deadlines).**
+# POTR POTS E-commerce Website
 
-Implement landing page according to [Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281) - Use BEM and SCSS
+[DEMO]()
 
-- The design 1440px
-- Desktop 1280px
-- Tablet 640px
-- Mobile (> 320px)
+[Design]()
 
-1. Implement the header with `nav`.
-1. Implement `For whom` block.
-1. Implement `Features` block.
-1. Implement `POTR team` block with the card reused 3 times.
-1. Implement `Materials` block with 4 process cards.
-1. Implement `POTR size` block.
-1. Implement `Benefits` block.
-1. Implement `Questions` block
-1. Implement the footer.
+This is an e-commerce website for POTR POTS, a company that sells various types of pots. The website is built using HTML, CSS, and SCSS with BEM methodology, and includes adaptive design for different screen sizes, including mobile, tablet, desktop, and screens over 1600px.
 
-## Github flow
+## Features
 
-1. **Fork** the repo.
-2. **Clone** the forked one. (The project link should have your name but not `mate-academy`)
-3. Run `npm install` (or just `npm i`)
-4. Run `npm start`.
-5. Open one more terminal window for the next steps
-6. `git checkout -b develop` - to create new branch and switch on it
-7. Write you code in `src` folder
-8. Run `npm run lint` and fix code style errors.
-9. Run `npm run deploy` to deploy your solution to `gh-pages`
-10. `git add . && git commit -m 'solution'` to save your changes
-11. `git push origin develop` - to send you code for PR
-12. Create a Pull Request (PR) from your branch `develop` to branch `master` of original repo.
-13. Replace `<your_account>` with your Github username in the
-    [DEMO LINK](https://taras-1.github.io/Potr_Pots/)
-14. Copy `DEMO LINK` to the PR description
+The e-commerce website includes the following features:
+- Navigation bar for easy navigation to different pages of the website.
+- Hero section showcasing the company's featured products.
+- Footer section with links to important pages.
 
-> To update you PR repeat steps 7-11
+## Adaptive Design
 
---> [CHECKLIST](https://github.com/mate-academy/Potr_Pots/blob/master/checklist.md)
+The e-commerce website is designed to be fully responsive and adaptive to different screen sizes. The layout and styling of the website will adjust based on the device being used to view the website, providing a consistent and user-friendly experience across all devices.
+
+- Mobile: The website is optimized for mobile devices with smaller screens. The navigation bar collapses into a dropdown menu, and the content is organized into a single column for easy scrolling.
+- Tablet: The website is designed to provide a similar experience on tablet devices as on desktops, with the content organized into two columns for easy navigation.
+- Desktop: The website is optimized for desktop devices with larger screens, with the content organized into three columns for a more immersive experience.
+- Screens over 1600px: The website is designed to provide an optimized experience on larger screens, with the content expanding to fit the available screen space. The website includes four different widths for the product section, ensuring that the products are displayed optimally on larger screens.
